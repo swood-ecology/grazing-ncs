@@ -1,0 +1,146 @@
+File data/GCAM_Demeter/GCAM_Demeter_LU_ssp2_rcp45_modelmean_2020.nc (NC_FORMAT_NETCDF4_CLASSIC):
+
+     33 variables (excluding dimension variables):
+        float PFT0[latitude,longitude]   (Chunking: [720,1440])  (Compression: level 9)
+            short_name: water; mean of the results driven by five GCMs
+            long_name: Water; mean of the results driven by five GCMs
+            Unit: percent of grid area
+        float PFT1[latitude,longitude]   (Chunking: [720,1440])  (Compression: level 9)
+            short_name: NET_tem; mean of the results driven by five GCMs
+            long_name: Needleleaf evergreen tree: temperate; mean of the results driven by five GCMs
+            Unit: percent of grid area
+        float PFT2[latitude,longitude]   (Chunking: [720,1440])  (Compression: level 9)
+            short_name: NET_bor; mean of the results driven by five GCMs
+            long_name: Needleleaf evergreen tree: boreal; mean of the results driven by five GCMs
+            Unit: percent of grid area
+        float PFT3[latitude,longitude]   (Chunking: [720,1440])  (Compression: level 9)
+            short_name: NDT_bor; mean of the results driven by five GCMs
+            long_name: Needleleaf deciduous tree: boreal; mean of the results driven by five GCMs
+            Unit: percent of grid area
+        float PFT4[latitude,longitude]   (Chunking: [720,1440])  (Compression: level 9)
+            short_name: BET_tro; mean of the results driven by five GCMs
+            long_name: Broadleaf evergreen tree: tropical; mean of the results driven by five GCMs
+            Unit: percent of grid area
+        float PFT5[latitude,longitude]   (Chunking: [720,1440])  (Compression: level 9)
+            short_name: BET_tem; mean of the results driven by five GCMs
+            long_name: Broadleaf evergreen tree: temperate; mean of the results driven by five GCMs
+            Unit: percent of grid area
+        float PFT6[latitude,longitude]   (Chunking: [720,1440])  (Compression: level 9)
+            short_name: BDT_tro; mean of the results driven by five GCMs
+            long_name: Broadleaf deciduous tree: tropical; mean of the results driven by five GCMs
+            Unit: percent of grid area
+        float PFT7[latitude,longitude]   (Chunking: [720,1440])  (Compression: level 9)
+            short_name: BDT_tem; mean of the results driven by five GCMs
+            long_name: Broadleaf deciduous tree: temperate; mean of the results driven by five GCMs
+            Unit: percent of grid area
+        float PFT8[latitude,longitude]   (Chunking: [720,1440])  (Compression: level 9)
+            short_name: BDT_bor; mean of the results driven by five GCMs
+            long_name: Broadleaf deciduous tree: boreal; mean of the results driven by five GCMs
+            Unit: percent of grid area
+        float PFT9[latitude,longitude]   (Chunking: [720,1440])  (Compression: level 9)
+            short_name: BES_tem; mean of the results driven by five GCMs
+            long_name: Broadleaf evergreen shrub: temperate; mean of the results driven by five GCMs
+            Unit: percent of grid area
+        float PFT10[latitude,longitude]   (Chunking: [720,1440])  (Compression: level 9)
+            short_name: BDS_tem; mean of the results driven by five GCMs
+            long_name: Broadleaf deciduous shrub: temperate; mean of the results driven by five GCMs
+            Unit: percent of grid area
+        float PFT11[latitude,longitude]   (Chunking: [720,1440])  (Compression: level 9)
+            short_name: BDS_bor; mean of the results driven by five GCMs
+            long_name: Broadleaf deciduous shrub: boreal; mean of the results driven by five GCMs
+            Unit: percent of grid area
+        float PFT12[latitude,longitude]   (Chunking: [720,1440])  (Compression: level 9)
+            short_name: C3_gra_arc; mean of the results driven by five GCMs
+            long_name: C3 Arctic; mean of the results driven by five GCMs
+            Unit: percent of grid area
+        float PFT13[latitude,longitude]   (Chunking: [720,1440])  (Compression: level 9)
+            short_name: C3_gra; mean of the results driven by five GCMs
+            long_name: C3 Grass; mean of the results driven by five GCMs
+            Unit: percent of grid area
+        float PFT14[latitude,longitude]   (Chunking: [720,1440])  (Compression: level 9)
+            short_name: C4_gra; mean of the results driven by five GCMs
+            long_name: C4 Grass; mean of the results driven by five GCMs
+            Unit: percent of grid area
+        float PFT15[latitude,longitude]   (Chunking: [720,1440])  (Compression: level 9)
+            short_name: Corn_rf; mean of the results driven by five GCMs
+            long_name: Corn: rainfed; mean of the results driven by five GCMs
+            Unit: percent of grid area
+        float PFT16[latitude,longitude]   (Chunking: [720,1440])  (Compression: level 9)
+            short_name: Corn_irr; mean of the results driven by five GCMs
+            long_name: Corn: irrigated; mean of the results driven by five GCMs
+            Unit: percent of grid area
+        float PFT17[latitude,longitude]   (Chunking: [720,1440])  (Compression: level 9)
+            short_name: Wheat_rf; mean of the results driven by five GCMs
+            long_name: Wheat: rainfed; mean of the results driven by five GCMs
+            Unit: percent of grid area
+        float PFT18[latitude,longitude]   (Chunking: [720,1440])  (Compression: level 9)
+            short_name: Wheat_irr; mean of the results driven by five GCMs
+            long_name: Wheat: irrigated; mean of the results driven by five GCMs
+            Unit: percent of grid area
+        float PFT19[latitude,longitude]   (Chunking: [720,1440])  (Compression: level 9)
+            short_name: Soy_rf; mean of the results driven by five GCMs
+            long_name: Soybean: rainfed; mean of the results driven by five GCMs
+            Unit: percent of grid area
+        float PFT20[latitude,longitude]   (Chunking: [720,1440])  (Compression: level 9)
+            short_name: Soy_irr; mean of the results driven by five GCMs
+            long_name: Soybean: irrigated; mean of the results driven by five GCMs
+            Unit: percent of grid area
+        float PFT21[latitude,longitude]   (Chunking: [720,1440])  (Compression: level 9)
+            short_name: Cotton_rf; mean of the results driven by five GCMs
+            long_name: Cotton: rainfed; mean of the results driven by five GCMs
+            Unit: percent of grid area
+        float PFT22[latitude,longitude]   (Chunking: [720,1440])  (Compression: level 9)
+            short_name: Cotton_irr; mean of the results driven by five GCMs
+            long_name: Cotton: irrigated; mean of the results driven by five GCMs
+            Unit: percent of grid area
+        float PFT23[latitude,longitude]   (Chunking: [720,1440])  (Compression: level 9)
+            short_name: Rice_rf; mean of the results driven by five GCMs
+            long_name: Rice: rainfed; mean of the results driven by five GCMs
+            Unit: percent of grid area
+        float PFT24[latitude,longitude]   (Chunking: [720,1440])  (Compression: level 9)
+            short_name: Rice_irr; mean of the results driven by five GCMs
+            long_name: Rice: irrigated; mean of the results driven by five GCMs
+            Unit: percent of grid area
+        float PFT25[latitude,longitude]   (Chunking: [720,1440])  (Compression: level 9)
+            short_name: Sugarcrop_rf; mean of the results driven by five GCMs
+            long_name: Sugar crop: rainfed; mean of the results driven by five GCMs
+            Unit: percent of grid area
+        float PFT26[latitude,longitude]   (Chunking: [720,1440])  (Compression: level 9)
+            short_name: Sugarcrop_irr; mean of the results driven by five GCMs
+            long_name: Sugar crop: irrigated; mean of the results driven by five GCMs
+            Unit: percent of grid area
+        float PFT27[latitude,longitude]   (Chunking: [720,1440])  (Compression: level 9)
+            short_name: OtherCrop_rf; mean of the results driven by five GCMs
+            long_name: Other crop: rainfed; mean of the results driven by five GCMs
+            Unit: percent of grid area
+        float PFT28[latitude,longitude]   (Chunking: [720,1440])  (Compression: level 9)
+            short_name: OtherCrop_irr; mean of the results driven by five GCMs
+            long_name: Other crop: irrigated; mean of the results driven by five GCMs
+            Unit: percent of grid area
+        float PFT29[latitude,longitude]   (Chunking: [720,1440])  (Compression: level 9)
+            short_name: Bioenergy_rf; mean of the results driven by five GCMs
+            long_name: Bioenergy crop: rainfed; mean of the results driven by five GCMs
+            Unit: percent of grid area
+        float PFT30[latitude,longitude]   (Chunking: [720,1440])  (Compression: level 9)
+            short_name: Bioenergy_irr; mean of the results driven by five GCMs
+            long_name: Bioenergy crop: irrigated; mean of the results driven by five GCMs
+            Unit: percent of grid area
+        float PFT31[latitude,longitude]   (Chunking: [720,1440])  (Compression: level 9)
+            short_name: Urban; mean of the results driven by five GCMs
+            long_name: Urban; mean of the results driven by five GCMs
+            Unit: percent of grid area
+        float PFT32[latitude,longitude]   (Chunking: [720,1440])  (Compression: level 9)
+            short_name: Barren; mean of the results driven by five GCMs
+            long_name: Barren; mean of the results driven by five GCMs
+            Unit: percent of grid area
+
+     2 dimensions:
+        latitude  Size:3600 
+        longitude  Size:7200 
+
+    5 global attributes:
+        coordination_system: WGS84
+        creation_date: 17-Mar-2020 15:20:38
+        Demeter_version: Vernon, C.R. and M. Chen. (2020, March 17). crvernon/demeter: v1.chen (Version v1.chen). Zenodo. http://doi.org/10.5281/zenodo.3713378
+        GCAM_version: Calvin, Katherine, Patel, Pralit, Clarke, Leon, Asrar, Ghassem, Bond-Lamberty, Ben, Yiyun Cui, Ryna, … Wise, Marshall.(2020, March 17). crvernon/gcam-core: gcam-v4.3.chen (Version gcam-v4.3.chen). Zenodo. http://doi.org/10.5281/zenodo.3713432
+        inputs: Chen, Min, & Vernon, Chris R. (2020). Demeter Inputs for Chen et al. 2020 [Data set]. Zenodo. http://doi.org/10.5281/zenodo.3713486
